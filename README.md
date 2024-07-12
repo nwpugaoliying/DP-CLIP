@@ -52,4 +52,4 @@ Codebase from [Sketch_LVM](https://github.com/aneeshan95/Sketch_LVM) and CLIP.
  ## Contact
 
 If you have any question, please feel free to contact us. 
-Gao liying: gaoliying ate mail.nwpu.edu.cn.
+Gao liying: gaoliying at mail.nwpu.edu.cn
