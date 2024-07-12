@@ -2,7 +2,7 @@
 ### Official repository of _Dual-Modal Prompting for Sketch-Based Image Retrieval_
 ## Pipeline
 
-![framework](figs/architecture.png)
+![framework](architecture.png)
 
 
 
